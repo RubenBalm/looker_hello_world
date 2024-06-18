@@ -1,4 +1,4 @@
-include: "/combined.view.lkml"
+include:"/views/*.view.lkml"
 
 
 datagroup: gist_refresh_rate_datagroup {
